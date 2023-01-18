@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-18T13:22:09.373223900Z</date>
+  <millis>1674048129373</millis>
+  <nanos>223900</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork_Lession5.Main</logger>
+  <level>INFO</level>
+  <class>HomeWork_Lession5.Main</class>
+  <method>getCalcInt</method>
+  <thread>1</thread>
+  <message>Результат вычисления: 5 - 2 = 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-18T13:23:20.972196200Z</date>
+  <millis>1674048200972</millis>
+  <nanos>196200</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork_Lession5.Main</logger>
+  <level>INFO</level>
+  <class>HomeWork_Lession5.Main</class>
+  <method>getCalcRac</method>
+  <thread>1</thread>
+  <message>Результат вычисления: 1/5 + 2/5 = 15+25</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-18T13:25:05.732819700Z</date>
+  <millis>1674048305732</millis>
+  <nanos>819700</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork_Lession5.Main</logger>
+  <level>INFO</level>
+  <class>HomeWork_Lession5.Main</class>
+  <method>getCalcRac</method>
+  <thread>1</thread>
+  <message>Результат вычисления: 2/3 * 1/5 = 2/15</message>
+</record>
+</log>
